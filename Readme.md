@@ -5,6 +5,8 @@
 Estrutura do Jogo;
 Lógica do Jogo;
 Adicionar laço de Repetição;
+Resolvendo Problema de Repetição;
+Adicionando Break na Repetição;
 
 
 

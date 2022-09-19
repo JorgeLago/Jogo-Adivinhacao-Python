@@ -1,6 +1,6 @@
-print("*********************************")
-print("Bem vindo ao jogo de Adivinhação!")
-print("*********************************")
+print("===========================================")
+print("JOGO DE ADIVINHAÇÃO COM PYTHON - PROJETO 01")
+print("===========================================")
 
 numero_secreto = 51
 numero_tentativas = 5

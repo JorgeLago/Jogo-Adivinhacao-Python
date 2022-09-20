@@ -9,6 +9,11 @@ Resolvendo Problema de Repetição;
 Definindo parâmetros do Chute;
 Adicionando Break na Repetição;
 Adicionar Número aleatório ao *Número Secreto*;
+Resolvendo problema limitação mínima do *numero secreto*;
+Adicionando Nível de dificuldade;
+Adicionando Pontuação ao jogo;
+Revelar o valor no final;
+
 
 
 
